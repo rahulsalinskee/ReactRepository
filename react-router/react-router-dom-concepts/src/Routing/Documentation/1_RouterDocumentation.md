@@ -35,3 +35,8 @@
             - Instead all related components are hook. 
             - This simplifies the code and makes it more in line with modern React patterns.
             - we use the <Outlet> component to render the child components of a route.
+
+    - How to install React Router Dom:
+        - npm install react-router-dom
+        - Current React Router Dom Version is: "react-router-dom": "^7.0.2",
+        - In this example, we are using "react-router-dom": "^6.15.0"
